@@ -142,9 +142,6 @@ export default function TestDarkMode() {
             </section>
           </div>
 
-                Find me on <a href="https://www.linkedin.com/in/suhaib1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            </footer>
-            </div>
           {/* Footer Section */}
           <footer className="text-center text-lg" >
             Find me on{" "}
